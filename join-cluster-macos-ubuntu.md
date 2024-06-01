@@ -145,7 +145,7 @@ dscacheutil -flushcache
 scutil --get HostName
 ```
 
-3. Khởi động lại máy
+4. Khởi động lại máy
 
 # Join cluster
 
